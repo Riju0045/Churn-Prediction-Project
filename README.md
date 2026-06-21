@@ -109,4 +109,3 @@ Among the implemented models, **XGBoost achieved the highest testing accuracy**,
 
 **Amrit Basak**
 
-M.Sc. Statistics
